@@ -1,0 +1,8 @@
+D:\Alevel\lesson12\Lesson12\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+D:\Alevel\lesson12\Lesson12\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+D:\Alevel\lesson12\Lesson12\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+D:\Alevel\lesson12\Lesson12\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+D:\Alevel\lesson12\Lesson12\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+D:\Alevel\lesson12\Lesson12\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+D:\Alevel\lesson12\Lesson12\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+D:\Alevel\lesson12\Lesson12\Task3\obj\Debug\netcoreapp3.1\Task3.pdb

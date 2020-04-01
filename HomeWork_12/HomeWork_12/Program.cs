@@ -5,7 +5,6 @@ using Task4;
 using Task4.Interfaces;
 using Task4.Items;
 using Task1;
-using System.Drawing;
 using Task2;
 using Task5;
 using Task5.Items;
@@ -17,7 +16,7 @@ namespace HomeWork12
         public static void Main(string[] args)
         {
             Console.WriteLine("Task 3");
-            var figures = new List<BaseFigure> { new Circle(15), new Task3.Figures.Rectangle(10, 80), new Square(10) };
+            var figures = new List<BaseFigure> { new Circle(15), new Rectangle(10, 80), new Square(10) };
             figures.ForEach(figure => figure.PrintInfo());
 
             Console.WriteLine("_______________________________");

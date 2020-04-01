@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Task4.Interdaces
+namespace Task4.Interfaces
 {
     public interface IInfo
     {

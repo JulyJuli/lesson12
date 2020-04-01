@@ -16,3 +16,5 @@ D:\Alevel\lesson12\Lesson12\Lesson12\obj\Debug\netcoreapp3.1\Lesson12.pdb
 D:\Alevel\lesson12\Lesson12\Lesson12\obj\Debug\netcoreapp3.1\Lesson12.genruntimeconfig.cache
 D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task4.dll
 D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task4.pdb
+D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task5.dll
+D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task5.pdb

@@ -7,10 +7,10 @@ namespace Task3.Figure
     public class Rectangle : Square
     {
         private double _width = 1;
+        protected override string FigureType => "Rectangle";
 
-        public Rectangle(double height, double widtth) : base(height)
+        public Rectangle(double height, double width) : base(height)
         {
-
         }
 
         public double Width

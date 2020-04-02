@@ -21,15 +21,5 @@ namespace Task5
                 }
             }
         }
-
-        public static double CostOfBouquet(List<Flowers> bouquet)
-        {
-            double costOfBouquet = 0;
-            for (int i = 0; i < bouquet.Count; i++)
-            {
-                costOfBouquet += bouquet[i].Price;
-            }
-            return costOfBouquet;
-        }
     }
 }

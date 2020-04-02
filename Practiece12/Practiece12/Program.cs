@@ -86,9 +86,14 @@ namespace Practiece12
             Console.WriteLine("===========================================");
             Console.WriteLine("Task 5");
 
-            var bouquet = new List<Flowers>() { new Rose(12.5), new Rose(11.10), new Tulip(45.90), new Carnation(38.30), new Rose(54.80) };
+            var buket = new Bouqet();
+            buket.AddFlower(new Rose(12.5));
+            buket.AddFlower(new Rose(11.10));
+            buket.AddFlower(new Tulip(45.90));
+            buket.AddFlower(new Carnation(38.30));
+            buket.AddFlower(new Rose(54.80));
 
-            Console.WriteLine($"Bouquet price: {Flowers.CostOfBouquet(bouquet)}");
+            Console.WriteLine($"Bouquet price: {buket.CostOfBouquet(buket.NewBouqet)}");
 
             Console.ReadKey();
         }

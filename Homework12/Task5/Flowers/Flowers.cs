@@ -5,19 +5,8 @@ namespace Task5.Flowers
 {
     public class Flowers
     {
-        private double _price = 1;
         public virtual string FlowersName { get; }
-        public virtual double Price
-        {
-            get => _price;
-            set
-            {
-                if (value > 0)
-                {
-                    _price = value;
-                }
-            }
-        }
+        public virtual double Price { get; set; }
         public static double FindingPriceOfBouquet(List<Flowers> bouquet)
         {
             double priceOfBouquet = 0;

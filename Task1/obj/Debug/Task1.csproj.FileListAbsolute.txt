@@ -1,0 +1,15 @@
+E:\ClassWork\Leasson12\Task1\bin\Debug\Task1.dll
+E:\ClassWork\Leasson12\Task1\bin\Debug\Task1.pdb
+E:\ClassWork\Leasson12\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\ClassWork\Leasson12\Task1\obj\Debug\Task1.dll
+E:\ClassWork\Leasson12\Task1\obj\Debug\Task1.pdb
+C:\Users\User\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Leasson12\Task1\bin\Debug\Task1.dll
+C:\Users\User\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Leasson12\Task1\bin\Debug\Task1.pdb
+C:\Users\User\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Leasson12\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Leasson12\Task1\obj\Debug\Task1.dll
+C:\Users\User\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Leasson12\Task1\obj\Debug\Task1.pdb
+E:\12\Task1\bin\Debug\Task1.dll
+E:\12\Task1\bin\Debug\Task1.pdb
+E:\12\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\12\Task1\obj\Debug\Task1.dll
+E:\12\Task1\obj\Debug\Task1.pdb

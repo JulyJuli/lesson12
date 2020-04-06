@@ -1,0 +1,5 @@
+E:\ClassWork\Leasson12\Task2\bin\Debug\Task2.dll
+E:\ClassWork\Leasson12\Task2\bin\Debug\Task2.pdb
+E:\ClassWork\Leasson12\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+E:\ClassWork\Leasson12\Task2\obj\Debug\Task2.dll
+E:\ClassWork\Leasson12\Task2\obj\Debug\Task2.pdb

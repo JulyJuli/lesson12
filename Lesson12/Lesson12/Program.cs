@@ -8,6 +8,7 @@ using Task4.Items;
 using Task5;
 using Task5.Flowers;
 using Task5.Interfaces;
+using Task2;
 
 namespace Lesson12
 {
@@ -19,7 +20,7 @@ namespace Lesson12
             var figures = new List<BaseFigure>
             {
                 new Circle(15),
-                new Rectangle(10, 80),
+                new Task3.Figure.Rectangle(10, 80),
                 new Square(10)
 
             };
@@ -58,6 +59,10 @@ namespace Lesson12
             
             bouquet.Flowers.ForEach(item => _totalPrice += item.Price);
             Console.WriteLine("Total price for bouquet is {0}", _totalPrice);
+
+            Task2.Program.Main();
+
+
         }
     }
 }

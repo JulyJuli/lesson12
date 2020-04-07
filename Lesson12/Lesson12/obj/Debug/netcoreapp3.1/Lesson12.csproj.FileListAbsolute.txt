@@ -18,3 +18,6 @@ D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task4.dll
 D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task4.pdb
 D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task5.dll
 D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task5.pdb
+D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task2.exe
+D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task2.dll
+D:\Alevel\lesson12\Lesson12\Lesson12\bin\Debug\netcoreapp3.1\Task2.pdb

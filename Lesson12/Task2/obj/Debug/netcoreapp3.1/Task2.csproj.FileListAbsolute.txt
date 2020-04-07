@@ -1,0 +1,13 @@
+D:\Alevel\lesson12\Lesson12\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+D:\Alevel\lesson12\Lesson12\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+D:\Alevel\lesson12\Lesson12\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+D:\Alevel\lesson12\Lesson12\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+D:\Alevel\lesson12\Lesson12\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+D:\Alevel\lesson12\Lesson12\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+D:\Alevel\lesson12\Lesson12\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+D:\Alevel\lesson12\Lesson12\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+D:\Alevel\lesson12\Lesson12\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+D:\Alevel\lesson12\Lesson12\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+D:\Alevel\lesson12\Lesson12\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+D:\Alevel\lesson12\Lesson12\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+D:\Alevel\lesson12\Lesson12\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
